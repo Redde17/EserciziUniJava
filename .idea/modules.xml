@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EserciziUniJava.iml" filepath="$PROJECT_DIR$/EserciziUniJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringEx1-S1/StringEx1-S1.iml" filepath="$PROJECT_DIR$/StringEx1-S1/StringEx1-S1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringEx2-S1/StringEx2-S1.iml" filepath="$PROJECT_DIR$/StringEx2-S1/StringEx2-S1.iml" />
+    </modules>
+  </component>
+</project>
