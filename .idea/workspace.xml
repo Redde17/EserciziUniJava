@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8853075-6480-44d2-84d1-b9e15245ef27" name="Changes" comment="Update ex3">
-      <change afterPath="$PROJECT_DIR$/StringEx4-S1/src/Main.java" afterDir="false" />
+    <list default="true" id="a8853075-6480-44d2-84d1-b9e15245ef27" name="Changes" comment="Update ex4">
+      <change afterPath="$PROJECT_DIR$/StringEx5-S1/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -51,17 +51,31 @@
       <recent name="C:\Users\Redde\IdeaProjects\EserciziUniJava\EserciziUniJava" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StringEx5-S1 args">
     <configuration name="StringEx4-S1 args" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-17.0.4.1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="StringEx4-S1" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;parola&quot;" />
+      <option name="PROGRAM_PARAMETERS" value="parola" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringEx5-S1 args" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-17.0.4.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="StringEx5-S1" />
+      <option name="PROGRAM_PARAMETERS" value="parola stringa mela" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StringEx4-S1 args" />
+      <item itemvalue="Application.StringEx5-S1 args" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664360448859</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update ex4">
+      <created>1664361324084</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664361324084</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
     <MESSAGE value="Update ex3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update ex3" />
+    <MESSAGE value="Update ex4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update ex4" />
   </component>
 </project>
