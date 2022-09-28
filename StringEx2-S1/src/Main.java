@@ -3,7 +3,7 @@
 //scambiato con l’ultimo, che viene poi stampata a video.
 public class Main {
     public static void main(String[] args) {
-        String str = "a";
+        String str = "parola";
         String newStr;
 
         if(str.length() >= 2) {
