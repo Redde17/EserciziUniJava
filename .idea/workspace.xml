@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8853075-6480-44d2-84d1-b9e15245ef27" name="Changes" comment="Update ex5">
-      <change afterPath="$PROJECT_DIR$/StringEx6-S1/StringEx6-S1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringEx6-S1/src/Main.java" afterDir="false" />
+    <list default="true" id="a8853075-6480-44d2-84d1-b9e15245ef27" name="Changes" comment="Update ex6">
+      <change afterPath="$PROJECT_DIR$/StringEx7-S1/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -136,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664362127982</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update ex6">
+      <created>1664362777904</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664362777904</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +161,7 @@
     <MESSAGE value="Update ex3" />
     <MESSAGE value="Update ex4" />
     <MESSAGE value="Update ex5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update ex5" />
+    <MESSAGE value="Update ex6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update ex6" />
   </component>
 </project>
