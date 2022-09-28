@@ -3,13 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EserciziUniJava.iml" filepath="$PROJECT_DIR$/EserciziUniJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StringEx1-S1/StringEx1-S1.iml" filepath="$PROJECT_DIR$/StringEx1-S1/StringEx1-S1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StringEx2-S1/StringEx2-S1.iml" filepath="$PROJECT_DIR$/StringEx2-S1/StringEx2-S1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StringEx3-S1/StringEx3-S1.iml" filepath="$PROJECT_DIR$/StringEx3-S1/StringEx3-S1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StringEx4-S1/StringEx4-S1.iml" filepath="$PROJECT_DIR$/StringEx4-S1/StringEx4-S1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StringEx5-S1/StringEx5-S1.iml" filepath="$PROJECT_DIR$/StringEx5-S1/StringEx5-S1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StringEx6-S1/StringEx6-S1.iml" filepath="$PROJECT_DIR$/StringEx6-S1/StringEx6-S1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StringEx7-S1/StringEx7-S1.iml" filepath="$PROJECT_DIR$/StringEx7-S1/StringEx7-S1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1/StringEx1-S1/StringEx1-S1.iml" filepath="$PROJECT_DIR$/S1/StringEx1-S1/StringEx1-S1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1/StringEx2-S1/StringEx2-S1.iml" filepath="$PROJECT_DIR$/S1/StringEx2-S1/StringEx2-S1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1/StringEx3-S1/StringEx3-S1.iml" filepath="$PROJECT_DIR$/S1/StringEx3-S1/StringEx3-S1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1/StringEx4-S1/StringEx4-S1.iml" filepath="$PROJECT_DIR$/S1/StringEx4-S1/StringEx4-S1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1/StringEx5-S1/StringEx5-S1.iml" filepath="$PROJECT_DIR$/S1/StringEx5-S1/StringEx5-S1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1/StringEx6-S1/StringEx6-S1.iml" filepath="$PROJECT_DIR$/S1/StringEx6-S1/StringEx6-S1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1/StringEx7-S1/StringEx7-S1.iml" filepath="$PROJECT_DIR$/S1/StringEx7-S1/StringEx7-S1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1/StringEx8-S1/StringEx8-S1.iml" filepath="$PROJECT_DIR$/S1/StringEx8-S1/StringEx8-S1.iml" />
     </modules>
   </component>
 </project>
