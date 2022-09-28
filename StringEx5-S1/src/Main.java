@@ -7,7 +7,8 @@ public class Main {
 
         for (String str: args) {
             System.out.println("str: " + str);
-            newStr = newStr.concat(str.substring(0, 1));
+            //newStr = newStr.concat(str.substring(0, 1));
+            newStr = newStr.concat(String.valueOf(str.charAt(0)));
         }
 
         System.out.println("\nOutput: " + newStr);
