@@ -4,10 +4,9 @@
 public class Main {
     public static void main(String[] args) {
         String str = "parola";
-        String newStr;
 
         if(str.length() >= 2) {
-            newStr = str.charAt(str.length() - 1) + str.substring(1, str.length() - 1) + str.charAt(0);
+            String newStr = str.charAt(str.length() - 1) + str.substring(1, str.length() - 1) + str.charAt(0);
             System.out.println(newStr);
         }else
             System.out.println("Stringa troppo corta");
