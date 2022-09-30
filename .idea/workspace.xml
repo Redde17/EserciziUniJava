@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8853075-6480-44d2-84d1-b9e15245ef27" name="Changes" comment="Update ex7">
-      <change afterPath="$PROJECT_DIR$/S1/StringEx8-S1/StringEx8-S1.iml" afterDir="false" />
+    <list default="true" id="a8853075-6480-44d2-84d1-b9e15245ef27" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx1-S1/StringEx1-S1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx1-S1/StringEx1-S1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx1-S1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx1-S1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx2-S1/StringEx2-S1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx2-S1/StringEx2-S1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx2-S1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx2-S1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx3-S1/StringEx3-S1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx3-S1/StringEx3-S1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx3-S1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx3-S1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx4-S1/StringEx4-S1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx4-S1/StringEx4-S1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx4-S1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx4-S1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx5-S1/StringEx5-S1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx5-S1/StringEx5-S1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx5-S1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx5-S1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx6-S1/StringEx6-S1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx6-S1/StringEx6-S1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx6-S1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx6-S1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx7-S1/StringEx7-S1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx7-S1/StringEx7-S1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringEx7-S1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/S1/StringEx7-S1/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +32,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Redde/IdeaProjects/EserciziUniJava",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Redde/IdeaProjects/EserciziUniJava&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Redde\IdeaProjects\EserciziUniJava\S1" />
@@ -164,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664362985026</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update">
+      <created>1664363743983</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664363743983</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,12 +171,16 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update" />
     <MESSAGE value="Update ex3" />
     <MESSAGE value="Update ex4" />
     <MESSAGE value="Update ex5" />
     <MESSAGE value="Update ex6" />
     <MESSAGE value="Update ex7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update ex7" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
